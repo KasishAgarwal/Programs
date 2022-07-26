@@ -1,0 +1,6 @@
+n=input("Enter your name: ")
+a=input("Enter your age: ")
+s=input("Enter your salary: ")
+print("Hello ",n)
+print("Your age is ",a)
+print("Your salary is ",s)

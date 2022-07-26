@@ -1,0 +1,14 @@
+1.hello
+2.maths
+3.String name
+
+# if we use # at the starting of any line,it will not run
+
+4.user_defined_ques1...print in single line
+5.user_input
+6.ques2...addition user defined
+7.dictionary
+8.ques3....diff. constructs
+9.sum with condition...nested if
+10.Mark+ket==Market
+11.split and print file name....also * pattern
